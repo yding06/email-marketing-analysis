@@ -1,0 +1,7 @@
+	email_id	email_type	member_id	open_time	open	click_time	click	unsub_time	unsub	email_kind	opened_before	age22	age35	category_days_joined	date	weekday	category_hour
+0	205569994	1	14802252		0		0		0	log_in					2012-09-01	Saturday	(-0.023, 5.75]
+1	205569995	1	14802253		0		0		0	log_in					2012-09-01	Saturday	(-0.023, 5.75]
+2	205569997	1	14802255		0		0		0	log_in					2012-09-01	Saturday	(-0.023, 5.75]
+3	205569998	1	14802256		0		0		0	log_in					2012-09-01	Saturday	(-0.023, 5.75]
+4	205570000	1	14802257		0		0		0	log_in					2012-09-01	Saturday	(-0.023, 5.75]
+5	205570071	0	14613748		0		0		0	password					2012-09-01	Saturday	(-0.023, 5.75]
